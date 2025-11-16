@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=800&height=80&lines=Hi%2C+I'm+Onubogu+John+👋;UI%2FUX+Designer+%F0%9F%8E%A8;Full+Stack+Developer+💻;Mobile+App+Engineer+📱;Always+Building.+Always+Learning." alt="Typing SVG" />
+</p>
+
 <h1 align="center">👋 Hi, I'm Onubogu John</h1>
 <h3 align="center">UI/UX Designer • Full-Stack Developer • Mobile App Engineer</h3>
 
