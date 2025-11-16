@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&width=900&height=80&lines=Hello+World!+I'm+Onubogu+John+👋;UI%2FUX+Designer+%E2%9C%A8;Full-Stack+Developer+%F0%9F%94%A7;Mobile+Engineer+%F0%9F%93%B1;Python+%7C+Dart+%7C+Kotlin+%7C+TS;I+Design.+I+Build.+I+Ship." />
-</p>
-
-
 <h1 align="center">👋 Hi, I'm Onubogu John</h1>
 <h3 align="center">UI/UX Designer • Full-Stack Developer • Mobile App Engineer</h3>
 
