@@ -22,9 +22,10 @@
 
 ## 🚀 Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blueseige&repo=REPO_NAME&theme=radical)](https://github.com/blueseige/Recipe-Discovery-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blueseige&repo=Recipe-Discovery-App&theme=radical)](https://github.com/blueseige/Recipe-Discovery-App)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blueseige&repo=REPO_NAME&theme=radical)](https://github.com/blueseige/bus-booking-system)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blueseige&repo=bus-booking-system&theme=radical)](https://github.com/blueseige/bus-booking-system)
+
 
 
 ---
