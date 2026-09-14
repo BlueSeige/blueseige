@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Onubogu John</h1>
+<h1 align="center">Hi, I'm Onubogu John</h1>
 <h3 align="center">UI/UX Designer • Full-Stack Developer • Mobile App Engineer</h3>
 
 <p align="center">
@@ -9,13 +9,12 @@
 
 ---
 
-## 🚀 About Me  
-- 🎨 **UI/UX Designer** — I create clean, modern, intuitive interfaces  
-- 💻 **Full-Stack Developer** — I build robust front & backend systems  
-- 📱 **Mobile App Developer** — Flutter & Kotlin mobile engineering  
-- 🧩 **API & Backend Logic** — Python (Django), Node.js, Express  
+## About Me  
+- 🎨 **UI/UX Designer**  
+- 💻 **Full-Stack Developer**
+- 📱 **Mobile App Developer**
+- 🧩 **API & Backend Logic** 
 - ⚙️ Currently exploring **DevOps, CI/CD & scalable system design**  
-- 🌍 Based in **Nigeria**  
 - 📬 Reach me at **onubogujohn18@gmail.com**
 
 ---
@@ -64,5 +63,3 @@
 </p>
 
 ---
-
-### 💬 *“Building the future — one interface and one line of code at a time.”*
